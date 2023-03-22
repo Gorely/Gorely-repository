@@ -1,4 +1,4 @@
-<font size = 5> Bank clints churning </font>
+<font size = 5> Bank clients churning </font>
 
  
 Customers began to leave Beta-Bank. Every month. A little, but noticeable. Banking marketers figured it was cheaper to keep current customers than to attract new ones.
